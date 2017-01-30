@@ -1,4 +1,4 @@
 module.exports = {
-    Task: require('./Task'),
-    List: require('./List')
+    Task: require('./lib/Task'),
+    List: require('./lib/List')
 }
