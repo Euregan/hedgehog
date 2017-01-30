@@ -1,5 +1,5 @@
 {
-  "name": "hedgehog",
+  "name": "pr.frisby",
   "version": "0.0.1",
   "description": "A small functional libraries providing some useful algebraic structures",
   "main": "index.js",
